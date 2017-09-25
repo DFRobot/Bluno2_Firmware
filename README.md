@@ -37,4 +37,4 @@ DFRobot BLE4.1 产品资料
 
 ## Credits
 
-- author [Zhangjiawei  <jiawei.zhang@dfrobot.com>]
+- author [wuxiao  <zed.wu@dfrobot.com>]
