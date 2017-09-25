@@ -8,8 +8,8 @@ DFRobot BLE4.1 产品资料
 
 * [Firmware](#firmware)
 * [Software](#software)
-* [DFRobot_Bluno2](#DFRobot_Bluno2)
-* [## 烧录方法（补充图片）](### 烧录方法（补充图片）)
+* [DFRobot_Bluno2](#dfrobot_bluno2)
+* [烧录方法（补充图片）](#烧录方法（补充图片）)
 * [History](#history)
 * [Credits](#credits)
 
