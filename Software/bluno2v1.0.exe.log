@@ -1,0 +1,63 @@
+Traceback (most recent call last):
+  File "bluno2v0.3.py", line 136, in showDialog
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 9-12: ordinal not in range(128)
+Traceback (most recent call last):
+  File "bluno2v0.3.py", line 136, in showDialog
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 9-12: ordinal not in range(128)
+Traceback (most recent call last):
+  File "bluno2v0.3.py", line 136, in showDialog
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 9-12: ordinal not in range(128)
+Traceback (most recent call last):
+  File "bluno2v0.3.py", line 146, in burnFirmware
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+serial.serialutil.SerialException: could not open port 'COM68': WindowsError(2, '\xcf\xb5\xcd\xb3\xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xce\xc4\xbc\xfe\xa1\xa3')
+Traceback (most recent call last):
+  File "bluno2v0.3.py", line 146, in burnFirmware
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+serial.serialutil.SerialException: could not open port 'COM68': WindowsError(2, '\xcf\xb5\xcd\xb3\xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xce\xc4\xbc\xfe\xa1\xa3')
+Traceback (most recent call last):
+  File "bluno2v0.3.py", line 146, in burnFirmware
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+serial.serialutil.SerialException: could not open port 'COM68': WindowsError(2, '\xcf\xb5\xcd\xb3\xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xce\xc4\xbc\xfe\xa1\xa3')
+Traceback (most recent call last):
+  File "bluno2v0.3.py", line 146, in burnFirmware
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+serial.serialutil.SerialException: could not open port 'COM68': WindowsError(2, '\xcf\xb5\xcd\xb3\xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xce\xc4\xbc\xfe\xa1\xa3')
+Traceback (most recent call last):
+  File "bluno2v0.3.py", line 146, in burnFirmware
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+serial.serialutil.SerialException: could not open port 'COM68': WindowsError(2, '\xcf\xb5\xcd\xb3\xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xce\xc4\xbc\xfe\xa1\xa3')
+Traceback (most recent call last):
+  File "bluno2v0.3.py", line 146, in burnFirmware
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+serial.serialutil.SerialException: could not open port 'COM68': WindowsError(2, '\xcf\xb5\xcd\xb3\xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xce\xc4\xbc\xfe\xa1\xa3')
+Traceback (most recent call last):
+  File "bluno2v0.3.py", line 146, in burnFirmware
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+serial.serialutil.SerialException: could not open port 'COM68': WindowsError(2, '\xcf\xb5\xcd\xb3\xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xce\xc4\xbc\xfe\xa1\xa3')
+Traceback (most recent call last):
+  File "bluno2v0.3.py", line 146, in burnFirmware
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+serial.serialutil.SerialException: could not open port 'COM68': WindowsError(2, '\xcf\xb5\xcd\xb3\xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xce\xc4\xbc\xfe\xa1\xa3')
+Traceback (most recent call last):
+  File "bluno2v0.3.py", line 146, in burnFirmware
+  File "serial\serialwin32.pyo", line 38, in __init__
+  File "serial\serialutil.pyo", line 282, in __init__
+  File "serial\serialwin32.pyo", line 66, in open
+serial.serialutil.SerialException: could not open port 'COM2': WindowsError(2, '\xcf\xb5\xcd\xb3\xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xce\xc4\xbc\xfe\xa1\xa3')
